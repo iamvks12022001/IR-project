@@ -1,0 +1,16 @@
+Name: Holiday
+Type: Action, Thriller
+IMDb Rating: 7.2
+Description: A military officer attempts to hunt down a terrorist, destroy a terrorist gang and deactivate the sleeper cells under its command.
+Director
+A.R. Murugadoss
+
+Cast (in credits order)  
+Akshay Kumar	...	Captain Viraat Bakshi
+Sonakshi Sinha	...	Saiba Thapar
+Freddy Daruwala	...	Leader of the Sleeper Cells
+Sumeet Raghavan	...	Mukund Deshmukh (as Sumeet Raghvan)
+Zakir Hussain	...	Alvin D'Souza
+Govinda	...	Pratap - Virat Bakshi's Senior Commanding Officer
+Premnath Gulati	...	Virat's Father
+Cherry Mardia	...	Virat's Sister
